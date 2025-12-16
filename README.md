@@ -38,8 +38,6 @@ Might not work on python versions newer then 3.12 as the two models are not upda
 
 3. Environment Setup (Conda)
 
-Using Conda is strongly recommended to keep dependencies isolated.
-
 Step 1 — Create the environment
 ```bash
 conda create --name qwen_tts python=3.12
