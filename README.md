@@ -120,7 +120,7 @@ This project prioritizes simplicity and accessibility, not maximum audio quality
 Long responses may increase inference time on CPU.
 
 9. Repository Structure
-.
+
 ├── Qwen_Kitten.py       # Main script
 
 ├── README.md            # Documentation
