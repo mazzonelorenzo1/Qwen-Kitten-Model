@@ -121,5 +121,6 @@ Long responses may increase inference time on CPU.
 
 9. Repository Structure
 .
-├── qwen_kitten_tts.py   # Main script
+├── Qwen_Kitten.py       # Main script
+
 ├── README.md            # Documentation
